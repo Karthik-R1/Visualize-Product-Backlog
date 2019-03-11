@@ -1,0 +1,49 @@
+Stories,Tag
+"As a customer, I want to open a RD account, So that I can start saving",Deposit
+"As a RD holder, I want to select a nominee, So that I can let bank know my nominee details",Deposit
+"As a RD holder, I want to view current balance, So that I can know my savings",Deposit
+"As a banker, I want to deduct monthly amount from customer account, So that I can invest towards customer's RD account",Deposit
+"As a banker, I want to view summaries of RD, So that I can let customer know when asked",Deposit
+"As a RD holder, I want to receive statements on certain frequency, So that I can know how my investments have grown",Deposit
+"As a RD holder, I want to choose option of account, So that I can have Bank deposit my maturity amount to such account",Deposit
+"As a customer, I want to open a FD account, So that I can start saving",Deposit
+"As a FD holder, I want to select a nominee, So that I can let bank know my nominee details",Deposit
+"As a FD holder, I want to view current balance, So that I can know my savings",Deposit
+"As a banker, I want to deduct annually from customer account, So that I can invest towards customer's FD account",Deposit
+"As a banker, I want to view summaries of FD, So that I can let customer know when asked",Deposit
+"As a FD holder, I want to receive statements on certain frequency, So that I can know how my investments have grown",Deposit
+"As a FD holder, I want to choose option of account, So that I can have bank deposit such maturity amount to such account",Deposit
+"As a customer, I want to open a savings account, So that I can start saving",Deposit
+"As a account holder, I want to select a nominee, So that I can let bank know my nominee details for savings account",Deposit
+"As a savings account holder, I want to view current balance, So that I can know my savings",Deposit
+"As a banker, I want to view summaries of savings account, So that I can print it and share with customer",Deposit
+"As a savings account holder, I want to receive statements on certain frequency, So that I can know how my investments have grown",Deposit
+"As a account holder, I want to check eligibility of personal loan, So that I can apply",Loans
+"As a account holder, I want to update my contact details, So that banks can call me to process my personal loan request",Loans
+"As a account holder, I want to upload documents online, So that bank can decide to sanction the personal loan amount requested",Loans
+"As a banker, I want to review uploaded documents, So that I can decide if I can sanction the quantum of personal loan requested",Loans
+"As a account holder, I want to view my personal loan statement, So that I can know my due amount",Loans
+"As a account holder, I want to receive statements on a frequency, So that I have a history of payments on personal loan",Loans
+"As a account holder, I want to change amount of monthly EMI Debit, So that I can prepay and close my personal loan early",Loans
+"As a account holder, I want to check eligibility vehicle loan, So that I can apply",Loans
+"As a account holder, I want to update my contact details, So that banks can call me to process my vehicle loan request",Loans
+"As a account holder, I want to upload documents online, So that bank can decide to sanction the vehicle loan amount requested",Loans
+"As a banker, I want to review uploaded documents, So that I can decide if I can sanction the quantum of vehicle loan requested",Loans
+"As a account holder, I want to view my vehicle loan statement, So that I can know my due amount",Loans
+"As a account holder, I want to receive statements on a frequency, So that I have a history of payments on vehicle loan",Loans
+"As a account holder, I want to change amount of monthly EMI Debit, So that I can prepay and close my vehicle loan early",Loans
+"As a account holder, I want to check eligibility of education loan, So that I can apply",Loans
+"As a account holder, I want to update my contact details, So that banks can call me to process my education loan request",Loans
+"As a account holder, I want to upload documents online, So that bank can decide to sanction the education loan amount requested",Loans
+"As a banker, I want to review uploaded documents, So that I can decide if I can sanction the education loan requested",Loans
+"As a account holder, I want to view my education loan statement, So that I can know my due amount",Loans
+"As a account holder, I want to receive statements on a frequency, So that I have a history of payments on education loan",Loans
+"As a account holder, I want to change amount of monthly EMI Debit, So that I can prepay and close my education loan early",Loans
+"As a account holder, I want to know the previleges of different debit cards, So that I can choose one",Cards
+"As a account holder, I want to know eligibility for a debit card, So that I can apply for one",Cards
+"As a banker, I want to know account holder credit report, So that I can decide the approval of debit card",Cards
+"As a account holder, I want to receive offers on my debit card, So that I can choose which to opt for",Cards
+"As a account holder, I want to know the previleges of different credit cards, So that I can choose one",Cards
+"As a account holder, I want to know eligibility for a credit card, So that I can apply for one",Cards
+"As a banker, I want to know account holder credit report, So that I can decide the approval of credit card",Cards
+"As a account holder, I want to receive offers on my credit card, So that I can choose which to opt for",Cards
